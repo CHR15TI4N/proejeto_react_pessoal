@@ -1,0 +1,12 @@
+.headerHomeText {
+    display: flex;
+    justify-content: center;
+    margin-top: 2px;
+    font-size: 3cap;
+    color: rgb(186, 125, 255);
+}
+.headerHome {
+    background-color: rgb(38, 0, 81);
+    height: 4rem;
+    padding-top: 10px;
+}
